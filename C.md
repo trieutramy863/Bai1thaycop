@@ -47,7 +47,11 @@ Truy cập: http://192.168.1.255/
 # Cài công cụ tạo mật khẩu: npm install -g node-red-admin
 # Tạo mật khẩu mã hóa: node-red-admin hash-pw
 # <img width="927" height="504" alt="Screenshot 2026-04-12 212735" src="https://github.com/user-attachments/assets/24e2a620-9555-4444-842c-be3da8fd3e5e" />
-# 
+# Thêm cấu hình adminAuth để yêu cầu đăng nhập
+# <img width="960" height="341" alt="Screenshot 2026-04-12 210814" src="https://github.com/user-attachments/assets/be45dab3-b08d-463f-9f53-37a283ff8038" />
+#  Restart lại container: docker compose restart + Kết quả: Khi truy cập Node-RED sẽ yêu cầu nhập username/password
+#  <img width="1052" height="530" alt="Screenshot 2026-04-12 210640" src="https://github.com/user-attachments/assets/ab8b89ac-7679-499a-91fe-20928d08a259" />
+
 
 
 
