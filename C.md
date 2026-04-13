@@ -1,4 +1,6 @@
-<img width="1920" height="1200" alt="Screenshot 2026-04-12 210123" src="https://github.com/user-attachments/assets/46c9357a-ba4b-4968-aadc-babde139b95f" /># C. Cấu hình docker compose
+# C. Cấu hình docker compose
+# Tạo thư mục: ~/myapp
+# <img width="715" height="664" alt="Screenshot 2026-04-12 203850" src="https://github.com/user-attachments/assets/331d5379-9d5b-48fa-8fd8-719c510ed1b5" />
 # 1. Tạo thư mục: ~/mywed
 # <img width="715" height="664" alt="Screenshot 2026-04-12 203850" src="https://github.com/user-attachments/assets/c056bcb5-b303-4e9b-b48d-f8a9b7ad2260" />
 # 2 Tạo thư mục: ./myapp
